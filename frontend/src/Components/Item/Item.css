@@ -1,0 +1,10 @@
+.popular-image {
+  width: 100%;
+  transition: all .5s linear;
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.popular-image:hover {
+  transform: scale(1.1);
+}
